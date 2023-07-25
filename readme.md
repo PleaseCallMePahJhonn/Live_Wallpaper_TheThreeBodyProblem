@@ -25,16 +25,22 @@ Windows 7及以上，64位系统及处理器。
 #### 运行效果示例
 
 1、无背景
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/1.png)
 
 2、“时空”背景
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/2.png)
 
 3、自定义背景
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/3.png)
 
 4、无轨迹
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/4.png)
 
 5、30s轨迹
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/5.png)
 
 6、设置菜单
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/6.png)
 
 #### 许可协议
 
