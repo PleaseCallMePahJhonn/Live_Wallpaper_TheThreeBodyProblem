@@ -96,4 +96,4 @@ This project follows the AGPL-3.0 license. If you're hoping to modify the code a
 
 #### Credits
 
-No code is directly taken from open source projects. However, the development of this project is partly inspired by the project UnityNativeFilePicker, and great thanks to the developer(s). Link: [GitHub - yasirkula/UnityNativeFilePicker: A native Unity plugin to import/export files from/to various document providers on Android &amp; iOS](https://github.com/yasirkula/UnityNativeFilePicker)
+No code has been directly taken from open source projects. However, the development of this project is partly inspired by the project UnityNativeFilePicker, and great thanks to the developer(s). Link: [GitHub - yasirkula/UnityNativeFilePicker: A native Unity plugin to import/export files from/to various document providers on Android &amp; iOS](https://github.com/yasirkula/UnityNativeFilePicker)
