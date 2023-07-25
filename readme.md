@@ -73,16 +73,22 @@ Windows 7 or above, 64bit OS and processor.
 #### Screenshots
 
 1.No Background
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/1.png)
 
 2."Timy" Background
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/2.png)
 
 3.Customized Background
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/3.png)
 
 4.No trail
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/4.png)
 
 5.30-seconds trail
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/5.png)
 
 6.The Settings Panel
+![image](https://github.com/PleaseCallMePahJhonn/Live_Wallpaper_TheThreeBodyProblem/blob/main/readme-images/6.png)
 
 #### License
 
