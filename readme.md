@@ -48,7 +48,15 @@ Windows 7及以上，32/64位系统及处理器。
 
 #### 致谢
 
-本项目未直接使用开源代码，但部分开发受到UnityNativeFilePicker项目启发，向其开发者（们）表示感谢。（链接：[yasirkula/UnityNativeFilePicker: A native Unity plugin to import/export files from/to various document providers on Android & iOS (github.com)](https://github.com/yasirkula/UnityNativeFilePicker)）
+本项目未直接使用开源代码，但部分开发受到以下项目/博客启发，向其开发者/作者（们）表示感谢。
+
+1、Unity中打开文件窗口（OpenFileDialog）的几种方法对比——作者：番茄猿
+
+（链接：[Unity中打开文件窗口（OpenFileDialog）的几种方法对比_番茄猿的博客-CSDN博客](https://blog.csdn.net/ithot/article/details/76997237)）
+
+2、UnityNativeFilePicker——开发者：yasirkula
+
+（链接：[yasirkula/UnityNativeFilePicker: A native Unity plugin to import/export files from/to various document providers on Android & iOS (github.com)](https://github.com/yasirkula/UnityNativeFilePicker)）
 
 ---
 
@@ -96,4 +104,12 @@ This project follows the AGPL-3.0 license. If you're hoping to modify the code a
 
 #### Credits
 
-No code has been directly taken from open source projects. However, the development of this project is partly inspired by the project UnityNativeFilePicker, and great thanks to the developer(s). Link: [GitHub - yasirkula/UnityNativeFilePicker: A native Unity plugin to import/export files from/to various document providers on Android &amp; iOS](https://github.com/yasirkula/UnityNativeFilePicker)
+No code has been directly taken from open source projects. However, the development of this project is partly inspired by the following project & blog, and great thanks to the developer/author(s). 
+
+1.Unity中打开文件窗口（OpenFileDialog）的几种方法对比——Author: 番茄猿
+
+Link: [Unity中打开文件窗口（OpenFileDialog）的几种方法对比_番茄猿的博客-CSDN博客](https://blog.csdn.net/ithot/article/details/76997237)
+
+2.UnityNativeFilePicker——Developer: yasirkula
+
+Link: [GitHub - yasirkula/UnityNativeFilePicker: A native Unity plugin to import/export files from/to various document providers on Android &amp; iOS](https://github.com/yasirkula/UnityNativeFilePicker)
