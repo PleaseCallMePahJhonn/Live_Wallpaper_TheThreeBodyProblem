@@ -18,9 +18,9 @@
 
 #### 运行环境要求
 
-Windows 7及以上，64位系统及处理器。
+Windows 7及以上，32/64位系统及处理器。
 
-本项目不提供32位软件包，如有需要可通过Unity编译获得。
+为达到更佳兼容性，本项目仅提供了32位二进制包。64位二进制包可通过Unity编译获得。
 
 #### 运行效果示例
 
@@ -66,9 +66,9 @@ This software can either run as a standalone software, or work as a live wallpap
 
 #### Requirements
 
-Windows 7 or above, 64bit OS and processor.
+Windows 7 or above, 32/64bit OS and processor.
 
-32bit binary isn't offered by the project, but you can always build one manually with Unity.
+Only 32bit binary is offered for better compatibility, but you can always build a 64bit binary with Unity.
 
 #### Screenshots
 
