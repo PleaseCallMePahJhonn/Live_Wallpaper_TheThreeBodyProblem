@@ -16,6 +16,10 @@
 
 本软件可作为独立软件运行，亦可配合WallpaperEngine用作桌面动态壁纸。
 
+本软件已发布于WallpaperEngine Steam版，名称：“三体行星运动模拟 TheThreeBodyMotion”。
+
+Steam创意工坊链接：[Steam 创意工坊::三体行星运动模拟 TheThreeBodyMotion (steamcommunity.com)](https://steamcommunity.com/sharedfiles/filedetails/?id=3014131381)
+
 #### 运行环境要求
 
 Windows 7及以上，32/64位系统及处理器。
@@ -71,6 +75,12 @@ This software is an animated realtime simulation of the three-body motion. The s
 3. Changeable and customizable background image.
 
 This software can either run as a standalone software, or work as a live wallpaper with the help of WallpaperEngine.
+
+Has been published in WallpaperEngine (Steam version) to the public, whose title is:
+
+"三体行星运动模拟 TheThreeBodyMotion".
+
+Link to Steam Workshop: [Steam 创意工坊::三体行星运动模拟 TheThreeBodyMotion (steamcommunity.com)](https://steamcommunity.com/sharedfiles/filedetails/?id=3014131381)
 
 #### Requirements
 
